@@ -1,3 +1,5 @@
+This repository now lives on https://github.com/pug-php/pug-filter-markdown
+
 # pug-filter-markdown
 
 Implement parsers from https://github.com/cebe/markdown to make **markdown**
